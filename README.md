@@ -4,7 +4,7 @@
 
 99 problems from the OCaml docs, that were inspired by Ninety-Nine Lisp Problems which in turn was based on “Prolog problem list”.
 
-Progress: 6 / 99
+Progress: 7 / 99
 
 ## Running
 ```sh
