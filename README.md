@@ -7,8 +7,23 @@
 Progress: 12 / 99
 
 ## Running
+
+### Running a single problem
+
 ```sh
   ocaml ./<problem-n>-<problem-name>/<problem-name>.ml
 ```
 
 <sub>See folders to get problems numbers and names</sub>
+
+### Running all problems
+
+For the first time:
+```sh
+  chmod +x ./run-tests.sh
+```
+
+Then:
+```sh
+  ./run-tests.sh
+```
