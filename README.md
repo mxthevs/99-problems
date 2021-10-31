@@ -18,12 +18,6 @@ Progress: 12 / 99
 
 ### Running all problems
 
-For the first time:
 ```sh
-  chmod +x ./run-tests.sh
-```
-
-Then:
-```sh
-  ./run-tests.sh
+  make test
 ```
